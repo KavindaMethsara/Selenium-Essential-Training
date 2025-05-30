@@ -9,8 +9,5 @@
         <module name="Autocomplete" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Autocomplete" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
